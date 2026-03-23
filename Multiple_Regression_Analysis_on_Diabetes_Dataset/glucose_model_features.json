@@ -1,0 +1,15 @@
+[
+  "glucose",
+  "calories",
+  "heart_rate",
+  "steps",
+  "basal_rate",
+  "bolus_volume_delivered",
+  "carb_input",
+  "hour",
+  "minute",
+  "day_of_week",
+  "glucose_lag_1",
+  "glucose_lag_2",
+  "glucose_lag_3"
+]
